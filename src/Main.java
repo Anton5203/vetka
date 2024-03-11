@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("new new branch");
+        System.out.printf("new  branch");
     }
 }
 
